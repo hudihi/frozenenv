@@ -8,7 +8,7 @@ import typing
 from typing import Any, get_type_hints
 
 __all__ = ["envclass", "EnvError"]
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __BOOL_TRUE = {"1", "true", "yes", "on", "enabled"}
 __BOOL_FALSE = {"0", "false", "no", "off", "disabled"}

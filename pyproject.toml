@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "frozenenv"
-version = "0.1.0"
+version = "0.1.1"
 description = "Typed environment variables as a frozen dataclass — zero dependencies"
 readme = "README.md"
 license = { file = "LICENSE" }
