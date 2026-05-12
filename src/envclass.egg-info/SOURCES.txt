@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/envclass/__init__.py
+src/envclass/py.typed
+src/envclass.egg-info/PKG-INFO
+src/envclass.egg-info/SOURCES.txt
+src/envclass.egg-info/dependency_links.txt
+src/envclass.egg-info/top_level.txt
+tests/test_envclass.py
